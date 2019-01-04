@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiermanzano/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiermanzano/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/javiermanzano/fizzbuzz#readme",
+  "dependencies": {
+    "assert.js": "^0.5.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^5.2.0"
+  }
+}
